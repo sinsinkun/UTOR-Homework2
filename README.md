@@ -7,3 +7,10 @@ Example portfolio made with Bootstrap 5, with considerations for responsive desi
 - Bootstrap 5
 - Google fonts
 - Placeholder image (placeholder.com)
+
+## Screenshots
+![index page](./assets/aboutme.png)
+
+![portfolio page](./assets/portfolio.png)
+
+![contact page](./assets/contact.png)
