@@ -3,7 +3,13 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(255, 233, 219) !important;
+    background: linear-gradient(45deg, #b3d8d3 8.75%, #bedfcd 8.75%, #bedfcd 41.25%, #b3d8d3 41.25%, #b3d8d3 58.75%, #bedfcd 58.75%, #bedfcd 91.25%, #b3d8d3 91.25%);
+    background-size: 100px 100px;
+    background-position: 0 0;
+}
+
+.card {
+    box-shadow: 2px 2px 5px rgba(10,10,10,0.3);
 }
 
 header h1 {
