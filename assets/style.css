@@ -33,3 +33,16 @@ footer {
     color: rgb(200,200,200);
     border-top: 5px solid rgb(46, 106, 235);
 }
+
+.port-link {
+    box-shadow: 0 0 6px black;
+    border-radius: 6px;
+}
+
+.port-link:hover {
+    transform: scale(1.02);
+}
+
+.port-link img {
+    border-radius: 6px;
+}
